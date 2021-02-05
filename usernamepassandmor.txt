@@ -1,0 +1,2 @@
+$user = $_GET['noname0420']; $password = $_GET['666T@GGER&!']; $hwid = $_GET['S-1-5-21-1268625423-678397397-2427659355-1001']; $token = $_GET['token']; $tables = "mybb_users";
+$user = $_GET['yuuki']; $password = $_GET['666T@GGER&!1337']; $hwid = $_GET['S-1-5-21-806719652-1476527636-1068581982-1001']; $token = $_GET['token']; $tables = "mybb_users";
