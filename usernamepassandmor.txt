@@ -1,2 +1,2 @@
-noname0420 "&password=666T@GGER&!"
-yuuki "&password=666T@GGER&!1337"
+noname0420 "&password= 666T@GGER&!" "password=666T@GGER&!"
+yuuki "&password= 666T@GGER&!1337" "password=666T@GGER&!1337"
